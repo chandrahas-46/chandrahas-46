@@ -1,89 +1,35 @@
 <h1 align="center">Hi 👋, I'm Chandrahas Patel</h1>
-<h3 align="center">Software Development Engineer | Backend Specialist | AI & Database Architect</h3>
+<h3 align="center">A passionate Software Development Engineer</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
-  </a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrahas-46&label=Profile%20views&color=0e75b6&style=flat" alt="chandrahas-46" /> </p>
+
+- 🔭 I’m currently working on **an AI powered MERN Stack project**
+
+- 🌱 I’m currently learning **Generative AI, System Design and Scaling**
+
+- 👨‍💻 All of my projects are available at [https://github.com/chandrahas-46](https://github.com/chandrahas-46)
+
+- 💬 Ask me about **backend API, database structure, and software development related queries**
+
+- 📫 How to reach me **chandrahaspatel32@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/chandrahas-patel-448981192/](https://www.linkedin.com/in/chandrahas-patel-448981192/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/chandrahas-patel-448981192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandrahas-patel-448981192" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/chk4401" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="users/chk4401" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/chandrahaspatel1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="profile/chandrahaspatel1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/chandrahas123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u/chandrahas123/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@chandrahas22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@chandrahas22/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/profile/chandrahaspatel32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="profile/chandrahaspatel32" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-## 🚀 About Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandrahas-46&show_icons=true&locale=en&layout=compact" alt="chandrahas-46" /></p>
 
-I am a **Software Development Engineer** with **3+ years of experience** specializing in **backend development, AI/LLM-powered applications, and database architecture**.  
-Currently, I contribute to **enterprise-grade healthcare projects at Meril (Vapi, Gujarat)**.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandrahas-46&show_icons=true&locale=en" alt="chandrahas-46" /></p>
 
-I graduated with an **MCA from NIT Jamshedpur (2022)** and since then have been focused on building software that is **scalable, maintainable, and production-ready**.
-
-I enjoy solving complex problems through **clean system design, efficient database modeling, and modern backend engineering practices**.
-
----
-
-## 🧠 What I Work On
-
-- **High-performance backend systems**
-- **AI/LLM-powered applications**
-- **Scalable database & system architecture**
-- **Dockerized, production-grade deployments**
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Backend & Languages
-- **Node.js (Express, NestJS)**
-- **Python (FastAPI, Flask)**
-- REST APIs, Microservices, Distributed Systems
-
-### 🧠 AI / LLM
-- LLM Integrations (OpenAI, LangChain)
-- RAG Systems
-- Healthcare Chatbots
-- Vector Databases (FAISS, Pinecone, Chroma)
-
-### 🗄️ Databases
-- PostgreSQL
-- MySQL
-- MongoDB
-- Redis
-- Vector Databases
-
-### ⚙️ DevOps & Infrastructure
-- Docker & Docker Compose
-- NGINX
-- Linux
-- Real-time Streaming
-- Containerized Deployments
-
----
-
-## 📌 Key Strengths
-
-- 🔹 **Backend Development:** Scalable APIs, efficient system design, performance optimization  
-- 🔹 **AI Innovation:** LLM applications, RAG pipelines, AI-driven healthcare solutions  
-- 🔹 **Database Architecture:** Schema design, indexing, optimization  
-- 🔹 **Modern Infrastructure:** Docker-first mindset, production deployments  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=react" height="160"/>
-</p>
-
----
-
-## 📫 Let’s Connect
-
-- 💼 LinkedIn: [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/chandrahas-patel-448981192/)
-- 📧 Email: chandrahaspatel32@gmail.com
-
----
-
-⭐ **Building scalable systems. Exploring AI. Shipping production-grade software.**
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrahas-46&" alt="chandrahas-46" /></p>
